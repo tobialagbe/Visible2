@@ -1,0 +1,8 @@
+.targetElement{
+    margin-top: 150vh;
+    margin-bottom: 150vh;
+    width: 100vw;
+    display: block;
+    height: 20vh;
+    background-color: red;
+}

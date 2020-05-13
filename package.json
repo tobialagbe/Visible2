@@ -1,0 +1,15 @@
+{
+  "name": "tobialagbe-visible2",
+  "version": "1.0.0",
+  "description": "Detect if an object is visible on the screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tobialagbe",
+    "visible"
+  ],
+  "author": "Tobi Alagbe",
+  "license": "ISC"
+}
