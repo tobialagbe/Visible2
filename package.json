@@ -1,8 +1,12 @@
 {
   "name": "tobialagbe-visible2",
   "version": "1.0.0",
-  "description": "Detect if an object is visible on the screen",
+  "description": "Detect if an element is visible on the screen",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tobialagbe/Visible2.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +15,8 @@
     "visible"
   ],
   "author": "Tobi Alagbe",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobialagbe/Visible2/issues"
+  }
 }
