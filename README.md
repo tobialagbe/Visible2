@@ -18,7 +18,7 @@ Visible2 allows you to detect an elements visibility within the viewport!
 #### 2 - Instantiate a new visible object with the target element to watch and two callback functions. The first to be called whenever the element is visible in the viewport and the second when the element is no longer visible
 
 ```js
-let v = new Visible("#targetElement",visibleCallbackFunction,visibleCallbackFunction);
+let v = new Visible("#targetElement",visibleCallbackFunction,notvisibleCallbackFunction);
 ```
 
 
